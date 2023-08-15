@@ -1,3 +1,3 @@
 # Odin-recipes
-This is  my first Odin recipes
-I'll be using HTML to do this project.
+This is  my first Odin project
+i am building a recipes wabpage
